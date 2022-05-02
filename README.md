@@ -1,2 +1,4 @@
 # pseudocode
-Hello there. This one of my first times trying to create an algorithm and represetn it using pseudocode. 
+Process: find the area of a triangle. 
+Autor: Alvin Rodríguez 
+INICIACIALITATION

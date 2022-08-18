@@ -1,6 +1,6 @@
 # pseudocode
 Process: find the area of a triangle. 
-Autor: Alvin Rodríguez 
+creator: Alvin Rodríguez 
 INICIACIALITATION
 var: Base, high, answer: Numeric
 Write:"find the area of the triangle"
